@@ -1,2 +1,4 @@
-touch dev.md hey
-somthing else
+touch dev.md 
+hey
+something else
+update frome git-kraken
